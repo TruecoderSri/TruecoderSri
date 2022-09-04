@@ -1,15 +1,15 @@
 ### 👋 Hey-There!! 
 This is **Srijan**
 ## About Me:
-I am a first Year student pursuing Computer Science Engineering from USICT,Delhi
+I'm first year student pursuing Computer Science Engineering from USICT,Delhi
 
-✨I love doing programming in Data Structure and Algorithms(DSA) 
+🌟I love doing programming in Data Structure and Algorithms(DSA) 
 
 💻I started Web developement and I am enjoying my time creating new projects now and then. 
 
 ☁️ I'm a cloud computing enthusiast,did some courses from Microsoft Azure and Amazon AWS to understand the platform and the tools on provided by them.
 
-### Coding Skills
+#Coding Skills
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height=80px/>
