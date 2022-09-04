@@ -7,7 +7,7 @@ I am a first Year student pursuing Computer Science Engineering from USICT,Delhi
 
 💻I started Web developement and I am enjoying my time creating new projects now and then. 
 
-☁️ I'm a cloud computing enthusiast,did some courses from Microsoft Azure and Amazon AWS to understand the platform and found it quite fascinating.
+☁️ I'm a cloud computing enthusiast,did some courses from Microsoft Azure and Amazon AWS to understand the platform and the tools on provided by them.
 
 ### Coding Skills
 
