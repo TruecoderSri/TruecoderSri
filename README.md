@@ -19,7 +19,9 @@ I'm first year student pursuing Computer Science Engineering from USICT,Delhi
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"height=80px/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJuu0O0PfboD7apVd33JG9kd9aP45iW96IDW9NZM4zxkv2UTsAO5w8emrvdZiGr5-roH0&usqp=CAU"height=80px/>
 </p>
+
 ## Cloud platforms
+
 <p>
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"height=80px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"height=80px/>
