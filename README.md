@@ -9,7 +9,7 @@ I'm first year student pursuing Computer Science Engineering from USICT,Delhi
 
 ☁️ I'm a cloud computing enthusiast,did some courses from Microsoft Azure and Amazon AWS to understand the platform and the tools on provided by them.
 
-###Coding Skills
+### Coding Skills
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height=80px/>
@@ -18,14 +18,14 @@ I'm first year student pursuing Computer Science Engineering from USICT,Delhi
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRUGXR_pLaNtbB7Uw9fKjJBWu42VCTQHy-3pAvBp1vC9yiVdH602-e7mRrLDCkKyojKg&usqp=CAU"height=80px/>
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"height=80px/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJuu0O0PfboD7apVd33JG9kd9aP45iW96IDW9NZM4zxkv2UTsAO5w8emrvdZiGr5-roH0&usqp=CAU"height=80px/>
-
-###Cloud platforms
+</p>
+### Cloud platforms
 <p>
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"height=80px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"height=80px/>
 </p>
 
-## Other Skills
+### Other Skills
 
 - **Languages**
    - Hindi
