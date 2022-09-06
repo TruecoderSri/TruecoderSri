@@ -1,6 +1,6 @@
 ## 👋 Hey-There!! 
 
-This is **Srijan** 
+This is ***Srijan 
 
 ## About Me:
 I'm first year student pursuing Computer Science Engineering from USICT,Delhi
@@ -9,7 +9,7 @@ I'm first year student pursuing Computer Science Engineering from USICT,Delhi
 
 💻I started Web developement and I am enjoying my time creating new projects now and then. 
 
-☁️ I'm a cloud computing enthusiast,did some courses from Microsoft Azure and Amazon AWS to understand the platform and the tools on provided by them.
+☁️ I'm a cloud computing enthusiast,did some courses from Microsoft Azure and Amazon AWS to understand the platform and the tools provided by them.
 
 ## Coding Skills
 
