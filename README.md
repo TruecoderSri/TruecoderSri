@@ -44,3 +44,5 @@ I'm first year student pursuing Computer Science Engineering from USICT,Delhi
   [<img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" width=80px/>](https://www.linkedin.com/in/srijan-ab9909229/)     
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TruecoderSri&show_icons=true&theme=radical)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri)](https://github.com/anuraghazra/github-readme-stats)
