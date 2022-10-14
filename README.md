@@ -3,7 +3,7 @@
 This is ***Srijan***
 
 ## About Me:
-I'm first year student pursuing Computer Science Engineering from USICT,Delhi
+I'm second year UnderGrad in Btech Computer Science Engineering from USICT,Delhi
 
 🌟I love doing programming in Data Structure and Algorithms(DSA) 
 
@@ -27,6 +27,7 @@ I'm first year student pursuing Computer Science Engineering from USICT,Delhi
 <p>
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"height=80px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"height=80px/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fgoogle-cloud-platform-from-zero-to-hero%2F&psig=AOvVaw2LqDzxNfce3EhcSRimM9qK&ust=1665848574439000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiz9NaH4PoCFQAAAAAdAAAAABAE"height=80px/>
 </p>
 
 ## Other Skills
