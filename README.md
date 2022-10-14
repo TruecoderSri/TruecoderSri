@@ -27,7 +27,7 @@ I'm second year UnderGrad in Btech Computer Science Engineering from USICT,Delhi
 <p>
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"height=80px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"height=80px/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fgoogle-cloud-platform-from-zero-to-hero%2F&psig=AOvVaw2LqDzxNfce3EhcSRimM9qK&ust=1665848574439000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiz9NaH4PoCFQAAAAAdAAAAABAE"height=80px/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/cloud/images/social-icon-google-cloud-1200-630.png"height=80px/>
 </p>
 
 ## Other Skills
