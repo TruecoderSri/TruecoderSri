@@ -3,7 +3,7 @@
 This is ***Srijan***
 
 ## About Me:
-I'm second year UnderGrad in Btech Computer Science Engineering from USICT,Delhi
+I'm second year UnderGrad in Btech Computer Science Engineering at USICT,Delhi
 
 🌟I love doing programming in Data Structure and Algorithms(DSA) 
 
