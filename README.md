@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 there,this is I'm Srijan</h1>
+<h1 align="center">Hello👋 there,this is Srijan</h1>
 <h3 align="center">Sophomore in Btech Computer Science at USICT,Delhi</h3>
 
 - 🌱 I’m currently mastering **Data Structures and Algorithms**
