@@ -1,48 +1,24 @@
-## 👋 Hey-There!! 
+<h1 align="center">Hello👋 there,this is I'm Srijan</h1>
+<h3 align="center">Sophomore in Btech Computer Science at USICT,Delhi</h3>
 
-This is ***Srijan***
+- 🌱 I’m currently mastering **Data Structures and Algorithms**
 
-## About Me:
-I'm second year UnderGrad in Btech Computer Science Engineering at USICT,Delhi
+- 💬 Ask me about **programming,Cloud computing**
 
-🌟I love doing programming in Data Structure and Algorithms(DSA) 
+- 📫Connect with me **srijan.03sri@gmail.com**
 
-💻I started Web developement and I am enjoying my time creating new projects now and then. 
+- ⚡ Fun fact **I love singing and searching any random place on the planet**
 
-☁️ I'm a cloud computing enthusiast,did some courses from Microsoft Azure and Amazon AWS to understand the platform and the tools provided by them.
-
-## Coding Skills
-
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height=80px/>
-<img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"height=80px/>
-<img src="https://toppng.com/uploads/preview/python-logo-11609373642q9ewsev5ea.png" height=80px/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRUGXR_pLaNtbB7Uw9fKjJBWu42VCTQHy-3pAvBp1vC9yiVdH602-e7mRrLDCkKyojKg&usqp=CAU"height=80px/>
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"height=80px/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJuu0O0PfboD7apVd33JG9kd9aP45iW96IDW9NZM4zxkv2UTsAO5w8emrvdZiGr5-roH0&usqp=CAU"height=80px/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/srijan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan." height="30" width="40" /></a>
+<a href="https://instagram.com/srijan_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan_021" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/srijan03sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srijan03sri" height="30" width="40" /></a>
 </p>
 
-## Cloud platforms
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p>
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"height=80px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png"height=80px/>
-<img src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/cloud/images/social-icon-google-cloud-1200-630.png"height=80px/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truecodersri&show_icons=true&locale=en" alt="truecodersri" /></p>
 
-## Other Skills
-
-- **Languages**
-   - Hindi
-   - English
-- **Soft Skills**
-   - Leadership
-   - Singing
-   - Narration
-   - Communication
- ## Connect with me
-  
-  [<img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" width=80px/>](https://www.linkedin.com/in/srijan-ab9909229/)     
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TruecoderSri&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truecodersri&" alt="truecodersri" /></p>
