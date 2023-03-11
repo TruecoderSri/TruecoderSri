@@ -1,6 +1,7 @@
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">this is Srijan</h1>
 <h3 align="center">Sophomore in Btech Computer Science at USICT,Delhi</h3>
 
+ -💻 I,m currently doing Web developement projects using MERN stack. 
 - 🌱 I’m currently devoted to **Data Structures and Algorithms**
 
 - 💬 Ask me about **programming,different countries**
