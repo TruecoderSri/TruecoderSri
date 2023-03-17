@@ -24,4 +24,4 @@
 <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TruecoderSri&show_icons=true&theme=highcontrast" alt="truecodersri"  />
 </p>
 <p align="left"><img src="https://streak-stats.demolab.com/?user=TruecoderSri&theme=highcontrast"/></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri&theme=radical" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri&theme=dark" /></p>
