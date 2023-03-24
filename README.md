@@ -2,13 +2,13 @@
 <h3 align="center">Sophomore in BTech Computer Science, USICT</h3>
 <h4 align="center">Successfully Completed HacktoberFest'22</h4>
 <br><br>
-💻 I'm currently doing Web developement projects using MERN stack. 
+💻 Handling new Web developement projects - MERN stack. 
 <br><br>
-🌱 I’m currently devoted to <b>Data Structures and Algorithms</b>
+🌱 I’m currently hooked to <b>Data Structures and Algorithms</b>
 <br><br>
 💬 Ask me about <b>Countries,Cricket and Cloud Computing</b>
 <br><br>
-📫Connect with me <b>srijan.03sri@gmail.com</b>
+📫Connect with me <b><a href="mailto:srijan.03sri@gmail.com">srijan.03sri@gmail.com</a></b>
 <br><br>
 ⚡ Fun fact <i>I love singing and searching any random place on the planet</i>
 <br>
