@@ -3,13 +3,13 @@
 <h4 align="center">Successfully Completed HacktoberFest'22</h4>
 
  -💻 I'm currently doing Web developement projects using MERN stack. 
-- 🌱 I’m currently devoted to **Data Structures and Algorithms**
+🌱 I’m currently devoted to **Data Structures and Algorithms**
 
-- 💬 Ask me about **Countries,Cricket and Cloud Computing**
+💬 Ask me about **Countries,Cricket and Cloud Computing**
 
-- 📫Connect with me **srijan.03sri@gmail.com**
+📫Connect with me **srijan.03sri@gmail.com**
 
-- ⚡ Fun fact **I love singing and searching any random place on the planet**
+⚡ Fun fact **I love singing and searching any random place on the planet**
 
 <h3 align="center">Connect with me <img src="https://media.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.webp?cid=ecf05e47lhjmqqknkhrcq1jwtgv734mbvijxzeb2r143xf5v&rid=giphy.webp&ct=s" height="20" width="20"/></h3>
 <p align="center">
