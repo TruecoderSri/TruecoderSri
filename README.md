@@ -5,7 +5,7 @@
  -💻 I'm currently doing Web developement projects using MERN stack. 
 - 🌱 I’m currently devoted to **Data Structures and Algorithms**
 
-- 💬 Ask me about **Countries,Cricket and Songs**
+- 💬 Ask me about **Countries,Cricket and Cloud Computing**
 
 - 📫Connect with me **srijan.03sri@gmail.com**
 
