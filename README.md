@@ -8,9 +8,9 @@
 <br><br>
 💬 Ask me about <b>Countries,Cricket and Cloud Computing</b>
 <br><br>
-📫Connect with me **srijan.03sri@gmail.com**
+📫Connect with me <b>srijan.03sri@gmail.com</b>
 <br><br>
-⚡ Fun fact **I love singing and searching any random place on the planet**
+⚡ Fun fact <i>I love singing and searching any random place on the planet</i>
 <br>
 <h3 align="center">Connect with me <img src="https://media.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.webp?cid=ecf05e47lhjmqqknkhrcq1jwtgv734mbvijxzeb2r143xf5v&rid=giphy.webp&ct=s" height="20" width="20"/></h3>
 <p align="center">
