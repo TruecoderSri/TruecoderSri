@@ -1,5 +1,5 @@
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">this is Srijan</h1>
-<h3 align="center">Sophomore in BTech Computer Science, USICT</h3>
+<h3 align="center">Sophomore in BTech Computer Science @ USICT,Delhi</h3>
 <h4 align="center"><b>Successfully Completed HacktoberFest'22</b></h4>
 <br><br>
 <h3>💻 Handling new Web developement projects - MERN stack. </h3> 
