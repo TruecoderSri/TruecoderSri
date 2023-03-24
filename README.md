@@ -14,7 +14,7 @@
 <br>
 <h3 align="center">Connect with me <img src="https://media.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.webp?cid=ecf05e47lhjmqqknkhrcq1jwtgv734mbvijxzeb2r143xf5v&rid=giphy.webp&ct=s" height="20" width="20"/></h3>
 <p align="center">
-  <a href="mailto:srijan.03sri@gmail.com" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png " height="30" width="40"/></a>
+<a href="mailto:srijan.03sri@gmail.com" src="https://similarpng.com/gmail-logo-design-on-transparent-background-png/ " height="30" width="40"/></a>
 <a href="https://linkedin.com/in/srijan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan." height="30" width="40" /></a>
 <a href="https://instagram.com/srijan_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan_021" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/srijan03sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srijan03sri" height="30" width="40" /></a>
