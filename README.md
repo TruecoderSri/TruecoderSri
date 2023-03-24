@@ -1,15 +1,15 @@
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">this is Srijan</h1>
 <h3 align="center">Sophomore in BTech Computer Science, USICT</h3>
 <h4 align="center">Successfully Completed HacktoberFest'22</h4>
-
+<br><br>
 💻 I'm currently doing Web developement projects using MERN stack. 
-<br>
+<br><br>
 🌱 I’m currently devoted to **Data Structures and Algorithms**
-<br>
+<br><br>
 💬 Ask me about **Countries,Cricket and Cloud Computing**
-<br>
+<br><br>
 📫Connect with me **srijan.03sri@gmail.com**
-<br>
+<br><br>
 ⚡ Fun fact **I love singing and searching any random place on the planet**
 <br>
 <h3 align="center">Connect with me <img src="https://media.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.webp?cid=ecf05e47lhjmqqknkhrcq1jwtgv734mbvijxzeb2r143xf5v&rid=giphy.webp&ct=s" height="20" width="20"/></h3>
