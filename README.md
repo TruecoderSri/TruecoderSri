@@ -2,15 +2,15 @@
 <h3 align="center">Sophomore in BTech Computer Science, USICT</h3>
 <h4 align="center"><b>Successfully Completed HacktoberFest'22</b></h4>
 <br><br>
-<h5>💻 Handling new Web developement projects - MERN stack. </h5> 
+<h3>💻 Handling new Web developement projects - MERN stack. </h3> 
 <br>
-<h5>🌱 I’m currently hooked to <b>Data Structures and Algorithms</b></h5>
+<h3>🌱 I’m currently hooked to <b>Data Structures and Algorithms</b></h3>
 <br>
-<h5>💬 Ask me about <b>Countries,Cricket and Cloud Computing</b></h5>
+<h3>💬 Ask me about <b>Countries,Cricket and Cloud Computing</b></h3>
 <br>
 <!-- 📫Connect with me <b><a href="">srijan.03sri@gmail.com</a></b> -->
 <!-- <br><br> -->
-<h5>⚡ Fun fact <i>I love singing and searching any random place on the planet</i><h5>
+<h3>⚡ Fun fact <i>I love singing and searching any random place on the planet</i></h3>
 <br>
 <h3 align="center">Connect with me <img src="https://media.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.webp?cid=ecf05e47lhjmqqknkhrcq1jwtgv734mbvijxzeb2r143xf5v&rid=giphy.webp&ct=s" height="25" width="30"/></h3>
 <p align="center">
