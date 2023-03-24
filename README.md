@@ -1,13 +1,13 @@
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">this is Srijan</h1>
 <h3 align="center">Sophomore in BTech Computer Science, USICT</h3>
-<h4 align="center">Successfully Completed HacktoberFest'22</h4>
+<h4 align="center"><b>Successfully Completed HacktoberFest'22</b></h4>
 <br><br>
 <h5>💻 Handling new Web developement projects - MERN stack. </h5> 
-<br><br>
+<br>
 <h5>🌱 I’m currently hooked to <b>Data Structures and Algorithms</b></h5>
-<br><br>
+<br>
 <h5>💬 Ask me about <b>Countries,Cricket and Cloud Computing</b></h5>
-<br><br>
+<br>
 <!-- 📫Connect with me <b><a href="">srijan.03sri@gmail.com</a></b> -->
 <!-- <br><br> -->
 <h5>⚡ Fun fact <i>I love singing and searching any random place on the planet</i><h5>
