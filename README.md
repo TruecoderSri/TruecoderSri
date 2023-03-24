@@ -2,7 +2,7 @@
 <h3 align="center">Sophomore in BTech Computer Science, USICT</h3>
 <h4 align="center">Successfully Completed HacktoberFest'22</h4>
 <br><br>
-💻 Handling new Web developement projects - MERN stack. 
+<h5>💻 Handling new Web developement projects - MERN stack. </h5> 
 <br><br>
 🌱 I’m currently hooked to <b>Data Structures and Algorithms</b>
 <br><br>
