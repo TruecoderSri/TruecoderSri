@@ -2,15 +2,16 @@
 <h3 align="center">Sophomore in BTech Computer Science, USICT</h3>
 <h4 align="center">Successfully Completed HacktoberFest'22</h4>
 
- -💻 I'm currently doing Web developement projects using MERN stack. 
+💻 I'm currently doing Web developement projects using MERN stack. 
+<br>
 🌱 I’m currently devoted to **Data Structures and Algorithms**
-
+<br>
 💬 Ask me about **Countries,Cricket and Cloud Computing**
-
+<br>
 📫Connect with me **srijan.03sri@gmail.com**
-
+<br>
 ⚡ Fun fact **I love singing and searching any random place on the planet**
-
+<br>
 <h3 align="center">Connect with me <img src="https://media.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.webp?cid=ecf05e47lhjmqqknkhrcq1jwtgv734mbvijxzeb2r143xf5v&rid=giphy.webp&ct=s" height="20" width="20"/></h3>
 <p align="center">
 <a href="https://linkedin.com/in/srijan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan." height="30" width="40" /></a>
