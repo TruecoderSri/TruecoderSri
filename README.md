@@ -14,11 +14,11 @@
 <p align="center">
   <a href="mailto:srijan.03sri@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30"/></a>
   <span> </span>
-  <a href="https://linkedin.com/in/srijan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan." height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/srijan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan." height="35" width="45" /></a>
 <span> </span>
-  <a href="https://instagram.com/srijan_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan_021" height="30" width="40" /></a>
+  <a href="https://instagram.com/srijan_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan_021" height="35" width="45" /></a>
 <span> </span>
-  <a href="https://auth.geeksforgeeks.org/user/srijan03sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srijan03sri" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/srijan03sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srijan03sri" height="35" width="45" /></a>
 </p>
 <br>
 <h2 align="center">Languages and Tools <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="40" width="50"/></h2>
