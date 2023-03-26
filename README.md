@@ -12,7 +12,7 @@
 <br>
 <h2 align="center">Connect with me <img src="https://media.giphy.com/media/5hmJposf0ESMw2fCBL/giphy.webp?cid=ecf05e47lhjmqqknkhrcq1jwtgv734mbvijxzeb2r143xf5v&rid=giphy.webp&ct=s" height="25" width="30"/></h2>
 <p align="center">
-  <a href="mailto:srijan.03sri@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30"/></a>
+  <a href="mailto:srijan.03sri@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="35" width="35"/></a>
   <span> </span>
   <a href="https://linkedin.com/in/srijan." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan." height="35" width="45" /></a>
 <span> </span>
