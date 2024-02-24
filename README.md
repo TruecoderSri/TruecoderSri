@@ -18,6 +18,8 @@
 <span> </span>
   <a href="https://instagram.com/srijan_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srijan_021" height="35" width="45" /></a>
 <span> </span>
+  <a href="https://leetcode.com/CoderSri_02/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="srijan_021" height="35" width="45" /></a>
+  <span> </span>
   <a href="https://auth.geeksforgeeks.org/user/srijan03sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="srijan03sri" height="35" width="45" /></a>
 </p>
 <br>
