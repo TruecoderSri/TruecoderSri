@@ -1,5 +1,5 @@
 <h1 align="center">Hello  <img src="https://media.tenor.com/NBb2bWHMyjQAAAAi/waving-hand-people.gif" width="30px" style="max-width: 100%;"> this is Srijan</h1>
-<h3 align="center">Sophomore BTech in Computer Science @ USICT,Delhi</h3>
+<h3 align="center">3rd Year BTech in Computer Science @ USICT,Delhi</h3>
 <h4 align="center"><b>Successfully Completed HacktoberFest'22</b></h4>
 <br><br>
 <h3>💻 Creating new Web Developement projects using MERN stack. </h3> 
