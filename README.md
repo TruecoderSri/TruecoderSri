@@ -32,7 +32,7 @@
 <br>
 <!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TruecoderSri&show_icons=true&theme=highcontrast" alt="truecodersri"  />
 </p> -->
-<div style="display: flex; flex-direction: row; gap: 1rem;">
+<div style="display: flex; flex-direction: column; gap: 5px;">
 <img src="https://streak-stats.demolab.com/?user=TruecoderSri&theme=highcontrast" style="max-width: 200px;"/></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri&theme=highcontrast" style="max-width: 100px;" /></p>
 </div>
