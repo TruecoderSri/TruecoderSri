@@ -1,4 +1,4 @@
-<h1 align="center">Hello  <img src="https://media.tenor.com/NBb2bWHMyjQAAAAi/waving-hand-people.gif" width="30px" style="max-width: 100%;"> this is Srijan</h1>
+<h1 align="center">Hello  <img src="https://media.tenor.com/NBb2bWHMyjQAAAAi/waving-hand-people.gif" width="30px" style="max-width: 100%;"> from Srijan</h1>
 <h3 align="center">3rd Year BTech in Computer Science from <i>USICT,Delhi</i> </h3>
 <h4 align="center"><b>Successfully Completed HacktoberFest'22</b></h4>
 <br><br>
@@ -32,5 +32,7 @@
 <br>
 <!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TruecoderSri&show_icons=true&theme=highcontrast" alt="truecodersri"  />
 </p> -->
-<p align="left"><img src="https://streak-stats.demolab.com/?user=TruecoderSri&theme=highcontrast"/></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri&theme=highcontrast" /></p>
+<div style="display: flex; flex-direction: row; gap: 1rem;">
+<img src="https://streak-stats.demolab.com/?user=TruecoderSri&theme=highcontrast" style="max-width: 200px;"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri&theme=highcontrast" style="max-width: 100px;" /></p>
+</div>
