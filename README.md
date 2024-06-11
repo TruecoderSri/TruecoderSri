@@ -30,7 +30,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,js,react,css,html,scss,next,redux,expressjs,nodejs,typescript,python,mongodb,azure,mysql,kotlin,materialui,graphql,firebase,tremor)](https://skillicons.dev)
 
 <br>
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TruecoderSri&show_icons=true&theme=highcontrast" alt="truecodersri"  />
-</p>
+<!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TruecoderSri&show_icons=true&theme=highcontrast" alt="truecodersri"  />
+</p> -->
 <p align="left"><img src="https://streak-stats.demolab.com/?user=TruecoderSri&theme=highcontrast"/></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruecoderSri&theme=highcontrast" /></p>
