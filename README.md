@@ -1,6 +1,13 @@
 <h1 align="center">Hello  <img src="https://media.tenor.com/NBb2bWHMyjQAAAAi/waving-hand-people.gif" width="30px" style="max-width: 100%;"> from Srijan</h1>
-<h3 align="center">3rd Year BTech in Computer Science from <i>USICT,Delhi</i> </h3>
-<h4 align="center"><b>Successfully Completed HacktoberFest'22</b></h4>
+<h2 align="center">Final Year BTech in Computer Science from <i>USICT, Delhi</i> </h2>
+<p align="center">
+  <a href="https://portfolio-website-sri.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=appveyor" alt="Portfolio" />
+  </a>
+</p>
+
+<h3 align="center"><b>Successfully Completed HacktoberFest'22</b></h3>
+
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" style="max-width: 100%; border-radius: 10px;">
 
